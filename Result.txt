@@ -1,0 +1,17 @@
+Kokkuvõte
+
+Ajavahe tabel:
+Nimi       Koguaeg         Vahe            Vea ringid
+Karl       00:12:14.730                              
+Max        00:14:16.662    00:02:01.931    [2]       
+Valtteri   00:15:00.144    00:02:45.413    [3, 5]    
+Lewis      00:15:14.994    00:03:00.263    [2, 7]    
+George     00:15:35.043    00:03:20.312    [4, 5]    
+
+Ringide tabel:
+Nimi       Koguaeg         Vea ringid               
+Karl       00:00:23.234    3.40                     
+Lewis      00:00:23.376    5.                       
+Valtteri   00:00:24.989    3.90                     
+George     00:00:25.126    3.29                     
+Max        00:00:25.134    4.45                     
